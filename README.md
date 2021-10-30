@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noobmaster23
 - 👀 I’m interested in Coding, Shooting, Hiking and most importantly oreos
-- 🌱 I’m currently learning Angular, NestJS and Android Studio
+- 🌱 I’m currently learning Angular, NestJS, Shell scripting and C++ GUI's
 - 📫 How to reach me: domi.schwaiger04@gmail.com
 
 <!---
